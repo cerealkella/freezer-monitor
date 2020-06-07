@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+email_settings.h
+
